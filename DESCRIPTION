@@ -1,0 +1,9 @@
+Package: DendSer
+Version: 1.0.2
+Date: 2022-04-27
+Author: Catherine B. Hurley and Denise Earle
+Maintainer: Catherine Hurley <catherine.hurley@mu.ie>
+Title: Dendrogram Seriation: Ordering for Visualisation
+Description: Re-arranges a dendrogram to optimize visualisation-based cost functions.
+Depends: gclus,seriation
+License: GPL-2
